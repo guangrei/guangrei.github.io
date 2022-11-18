@@ -63,4 +63,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-future: true
+future: true # enable render future post
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
