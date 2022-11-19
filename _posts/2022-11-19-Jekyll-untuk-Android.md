@@ -12,7 +12,7 @@ author: guangrei
 
 ![Screenshot_2022-11-19-12-17-39](/images/2022/11/19/Screenshot_2022-11-19-12-17-39.jpg)
 
-Setelah membuat blog Jekyll, aku baru kepikiran untuk membuat aplikasi yang memudahkan dalam pengelolaan blog ini.
+Setelah membuat blog Jekyll, aku baru kepikiran untuk membuat aplikasi yang memudahkan dalam pengelolaan <!--more-->blog ini.
 
 aplikasi itu aku wujudkan dengan menggunakan script qpython, untuk detailnya aku akan tuliskan di lain kesempatan.
 
