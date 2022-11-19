@@ -63,6 +63,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+timezone: Asia/Jakarta
 future: true # enable render future post
 # Exclude these files from your production _site
 exclude:
