@@ -2,8 +2,8 @@
 layout: post
 title: Jekyll untuk Android
 date: 2022-11-19 13:01:58
-categories: takberkategori
-tags: android qpython Jekyll python
+categories: tak-berkategori
+tags: android qpython Jekyll python id
 author: guangrei
 ---
 
