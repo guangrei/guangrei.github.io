@@ -20,7 +20,7 @@ untuk menciptakan artikel AI hanya mengambil bagian text tertentu dari web atau 
 
 ## Stable Diffusion
 
-Selanjutnya untuk gambarnya juga dibuat AI menggunakan [stable diffusion](https://github.com/CompVis/stable-diffusion).
+Selanjutnya untuk gambarnya juga dibuat AI menggunakan [stable diffusion](https://github.com/CompVis/stable-diffusion){:target="_blank"}.
 
 ## tinypng API
 
