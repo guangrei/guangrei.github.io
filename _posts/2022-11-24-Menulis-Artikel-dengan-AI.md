@@ -10,7 +10,7 @@ author: guangrei
 * content
 {:toc}
 
-Pada post [sebelumnya](/read/2022/11/24/hujan/){:target="_blank"}, aku mempublikasikan artikel yang di publikasikan dangan AI dan pada kesempatan ini akan sedikit menulis bagaimana cara kerjanya.
+Pada post [sebelumnya](/read/2022/11/24/hujan/){:target="_blank"}, aku mempublikasikan artikel yang digenerate dangan AI dan pada kesempatan ini aku sedikit menulis bagaimana cara kerjanya.
 
 ## Gpt-3
 
