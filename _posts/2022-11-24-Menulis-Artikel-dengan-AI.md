@@ -10,7 +10,7 @@ author: guangrei
 * content
 {:toc}
 
-Pada post [sebelumnya](https://guangrei.github.io/2022/11/24/hujan/), aku mempublikasikan artikel yang di publikasikan dangan AI dan pada kesempatan ini akan sedikit menulis bagaimana cara kerjanya.
+Pada post [sebelumnya](/read/2022/11/24/hujan/){:target="_blank"}, aku mempublikasikan artikel yang di publikasikan dangan AI dan pada kesempatan ini akan sedikit menulis bagaimana cara kerjanya.
 
 ## Gpt-3
 
@@ -24,6 +24,6 @@ Selanjutnya untuk gambarnya juga dibuat AI menggunakan [stable diffusion](https:
 
 ## tinypng API
 
-Terakhir untuk mengecilkan ukuran file gambar, digunakan API [tinypng.com](https://tinypng.com){:target="_blank"}
+Terakhir untuk mengecilkan ukuran file gambar, digunakan API [tinypng.com](https://tinypng.com){:target="_blank"}.
 
 sekian dan mohon maaf jika kurang jelas 🙏
