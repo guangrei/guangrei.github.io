@@ -10,20 +10,22 @@ author: guangrei
 * content
 {:toc}
 
-Pada post [sebelumnya](/read/2022/11/24/hujan/){:target="_blank"}, aku mempublikasikan artikel yang digenerate dangan AI dan pada kesempatan ini aku sedikit menulis bagaimana cara kerjanya.
+Pada post [sebelumnya](/read/2022/11/24/hujan/), aku mempublikasikan artikel yang digenerate dangan AI dan pada kesempatan ini aku sedikit menulis bagaimana cara kerjanya.
 
 ## Gpt-3
 
 Gpt-3 adalah pengelola text berbasis AI yang dimiliki oleh openai, kita dapat menghasilkan text lain dari sebuah prompt termasuk menjadi sebuah artikel.
 
-untuk menciptakan artikel AI hanya mengambil bagian text tertentu dari web atau dataset, pada sebuah artikel bisa 5 atau lebih web yang dijadikan referensi sehingga tidak terkesan copy paste atau sama halnya manusia yang menyusun makalah.
+untuk menciptakan artikel, AI hanya mengambil bagian text tertentu dari web atau dataset.
+
+pada sebuah artikel bisa 5 atau lebih web yang dijadikan referensi sehingga tidak terkesan copy paste atau sama halnya manusia yang menyusun makalah.
 
 ## Stable Diffusion
 
-Selanjutnya untuk gambarnya juga dibuat AI menggunakan [stable diffusion](https://github.com/CompVis/stable-diffusion){:target="_blank"}.
+Selanjutnya untuk gambarnya juga dibuat AI menggunakan [stable diffusion](https://github.com/CompVis/stable-diffusion).
 
 ## tinypng API
 
-Terakhir untuk mengecilkan ukuran file gambar, digunakan API [tinypng.com](https://tinypng.com){:target="_blank"}.
+Terakhir untuk mengecilkan ukuran file gambar, digunakan API [tinypng.com](https://tinypng.com).
 
 sekian dan mohon maaf jika kurang jelas 🙏
