@@ -3,7 +3,7 @@ layout: post
 title: Kecerdasan Buatan
 date: 2022-11-24 23:11:28
 categories: experiment
-tags:
+tags: id
 author: AI
 ---
 

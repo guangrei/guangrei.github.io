@@ -3,7 +3,7 @@ layout: post
 title: Menulis Artikel dengan AI
 date: 2022-11-24 15:03:46
 categories: AI
-tags: python ai openai gpt-3
+tags: python ai openai gpt-3 id
 author: guangrei
 ---
 
