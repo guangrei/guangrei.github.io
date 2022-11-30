@@ -3,7 +3,7 @@ layout: post
 title: Ciptakan Ide Bisnis Dengan AI
 date: 2022-11-30 21:09:54
 categories: AI
-tags: ai tool
+tags: ai tool id
 author: guangrei
 ---
 
@@ -14,7 +14,7 @@ Sekarang adalah waktu yang tepat untuk memiliki dan menjalankan bisnis sendiri, 
 
 Untuk memiliki bisnis sendiri, kita harus menentukan ide bisnis terlebih dahulu dan ini agak tricky.
 
-Tapi beruntungnya ada tool gratisan yang memanfaatkan AI untuk menggenarate ide bisnis dengan mudah.
+Tapi beruntungnya ada tool gratisan yang memanfaatkan AI untuk menciptakan ide bisnis dengan mudah.
 
 Kita hanya cukup memasukan sebuah prompt dan kemudian menghasilkan berbagai ide bisnis.
 
