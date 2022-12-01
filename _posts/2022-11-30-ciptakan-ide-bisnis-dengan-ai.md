@@ -23,7 +23,9 @@ Sebagai contoh, aku memasukan prompt `sleep` maka ide bisnis yang dihasilkan sep
 ```
 1. A sleep app that helps people track their sleep patterns and get better sleep.
 
-2. A pillow that is specifically designed for side sleepers to help them get a better night’s rest.3. A bedding company that specializes in high-quality, comfortable sheets and blankets to help people get a good night’s sleep.
+2. A pillow that is specifically designed for side sleepers to help them get a better night’s rest.
+
+3. A bedding company that specializes in high-quality, comfortable sheets and blankets to help people get a good night’s sleep.
 
 4. An online retailer that sells noise-cancelling headphones and other products to help people who have trouble sleeping due to noise pollution.
 
