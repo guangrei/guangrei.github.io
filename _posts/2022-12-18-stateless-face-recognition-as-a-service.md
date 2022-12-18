@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facesenpai: Stateless Facerecognition as A Service
+title: "Facesenpai: Stateless Facerecognition as A Service"
 date: 2022-12-18 22:10:31
 categories: AI
 tags: facerecognition api ai
