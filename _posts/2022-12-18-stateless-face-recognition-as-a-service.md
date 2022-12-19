@@ -29,4 +29,4 @@ Untuk update sekarang sudah tidak lagi menggunakan json pickle jadi bisa compati
 
 Karena heroku sudah tidak lagi gratis maka untuk sementara demo api ditiadakan dulu.
 
-github [https://github.com/guangrei/face_senpai] (https://github.com/guangrei/face_senpai)
+github [https://github.com/guangrei/face_senpai](https://github.com/guangrei/face_senpai)
