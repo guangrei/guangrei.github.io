@@ -7,7 +7,7 @@ tags: api nlp stemmer
 author: guangrei
 ---
 
-Stemmer API menggunakan algoritma snowball dan support multi bahasa.
+Stemmer API menggunakan algoritma snowball dan support multi bahasa. <!--more-->
 
 endpoint: `https://my-awn.vercel.app/api/stemmer.php`
 
