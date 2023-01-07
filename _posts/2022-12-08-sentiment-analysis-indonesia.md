@@ -7,7 +7,7 @@ tags: sentiment analysis ai api nlp nltk
 author: guangrei
 ---
 
-Pada post kali ini aku ingin membagikan api sentiment analysis untuk bahasa indonesia, yang aku kembangkan sendiri.
+Pada post kali ini aku ingin membagikan api sentiment analysis untuk bahasa indonesia, yang aku kembangkan sendiri.<!--more-->
 
 Api endpoints :`https://my-awn.vercel.app/api/sentiment-analysis.php`
 
