@@ -10,7 +10,7 @@ author: guangrei
 Stemmer API menggunakan algoritma snowball dan support multi bahasa. <!--more-->
 
 endpoint: `https://my-awn.vercel.app/api/stemmer.php`
-
+method: `Get`
 parameter:
 
 text (required): text kalimat untuk di stemming.
