@@ -29,7 +29,7 @@ Pada api yang baru ini memiliki format yang berbeda dari api sebelumnya, berikut
 ```
 
 - `Y-m-d` adalah format key string yang berarti tahun-bulan-tanggal.
- - `libur` adalah key untuk menandakan libur nasional dengan nilai value booelan true & false, hari libur yang bukan hari libur nasional seperti hari ibu akan ditandai dengan false.
+ - `libur` adalah key untuk menandakan libur nasional dengan nilai value boolean true & false, hari libur yang bukan hari libur nasional seperti hari ibu akan ditandai dengan false.
   - `nama` adalah key untuk nama hari libur.
 - `info` key ini memiliki value yang berkaitan dengan informasi api, seperti waktu terakhir pembaruan.
 
