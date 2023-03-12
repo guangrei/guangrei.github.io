@@ -49,4 +49,4 @@ else:
     print("tidak libur!")
 
 ```
-seperti yang tertera diatas url api endpointnya ada di `https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json`, semoga bermanfaat🙏
+seperti yang tertera diatas url api endpointnya ada di https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json semoga bermanfaat🙏
