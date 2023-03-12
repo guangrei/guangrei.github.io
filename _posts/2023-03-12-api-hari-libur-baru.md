@@ -49,4 +49,22 @@ else:
     print("tidak libur!")
 
 ```
+
+dan contoh penggunaan dengan php:
+```php
+<?php
+
+$tahun = date("Y");
+$cek = $tahun."-12-25";
+$req = file_get_contents("https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json");
+$data = json_decode($req, true);
+if (isset($data[$cek]) && $data[$cek]["libur"]) {
+    echo $data[$cek]["nama"];
+}
+else{
+    echo "tidak libur!";
+}
+    
+```
+
 seperti yang tertera diatas url api endpointnya ada di [https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json](https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json) semoga bermanfaat🙏
