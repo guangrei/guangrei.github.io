@@ -38,13 +38,14 @@ berikut contoh penggunaan dengan python:
 ```python
 # -*-coding:utf8;-*-
 import requests
-from datetime import date, datetime
+from datetime import datetime
 
-d = datetime.now()
+tahun = datetime.now().year
+cek = f"{tahun}-12-25"
 r = requests.get(
     "https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json").json()
-if str(date(d.year, 12, 25)) in r and r[f"{d.year}-12-25"]["libur"]:
-    print(r[f"{d.year}-12-25"]["nama"])
+if cek in r and r[cek]["libur"]:
+    print(r[cek]["nama"])
 else:
     print("tidak libur!")
 
@@ -67,4 +68,4 @@ else{
     
 ```
 
-seperti yang tertera diatas url api endpointnya ada di [https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json](https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json) semoga bermanfaat🙏
+seperti yang tertera diatas url api endpointnya ada di [https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json](https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json) semoga bermanfaat 
