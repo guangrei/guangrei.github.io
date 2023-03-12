@@ -33,7 +33,7 @@ Pada api yang baru ini memiliki format yang berbeda dari api sebelumnya, berikut
   - `nama` adalah key untuk nama hari libur.
 - `info` key ini memiliki value yang berkaitan dengan informasi api, seperti waktu terakhir pembaruan.
 
-berikut contoh penggunaanya:
+berikut contoh penggunaan dengan python:
 
 ```python
 # -*-coding:utf8;-*-
@@ -49,4 +49,4 @@ else:
     print("tidak libur!")
 
 ```
-seperti yang tertera diatas url api endpointnya ada di https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json semoga bermanfaat🙏
+seperti yang tertera diatas url api endpointnya ada di [https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json](https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/api.json) semoga bermanfaat🙏
