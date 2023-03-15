@@ -11,7 +11,7 @@ Pada post kali ini aku ingin memperkenalkan api daftar hari libur baru.
 
 Sebelumnya aku sudah menyediakan api daftar hari libur yang bersumber dari Google calendar dan otomatis update.
 
-Pada api yang baru ini memiliki format yang berbeda dari api sebelumnya, berikut ini sekema jsonnya:
+Pada api yang baru ini masih bersumber data dari google calendar dan otomatis diperbarui, hanya saja ada verifikasi antara libur tanggal merah dengan libur bukan tanggal merah, selain itu memiliki format yang berbeda dari api sebelumnya, berikut ini sekema jsonnya:
 
 ```javascript
 {
