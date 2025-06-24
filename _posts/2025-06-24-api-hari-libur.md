@@ -22,7 +22,7 @@ https://grei.pythonanywhere.com/id_holiday/Y-m-d
   var currentYear = new Date().getFullYear();
   document.write('Contoh: <a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-12-25">' + currentYear + '-12-25</a>.');
 </script>
-<noscript>JavaScript required to see this content! </noscript>
+<noscript> JavaScript required to see this content! </noscript>
 
 ## List hari libur diantara 2 date:
 
@@ -36,23 +36,26 @@ https://grei.pythonanywhere.com/id_holiday/Y-m-d/Y-m-d
   var currentYear = new Date().getFullYear();
   document.write('Contoh: <a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-02-01/' + currentYear + '-04-30">'+ currentYear + '-02-01/' + currentYear + '-04-30</a>.');
 </script>
-<noscript>JavaScript required to see this content! </noscript>
+<noscript> JavaScript required to see this content! </noscript>
 
 ## Response
 
 response dari api berupa json.
+
+contoh single event response:
 ```json
 {"Y-m-d": "event name"}
 ```
-contoh multi event:
+contoh multi event response:
 ```json
 {
     "Y-m-d": "event 1 name",
     "Y-m-d": "event 2 name"
 }
 ```
-jika tidak ada even maka responsenya array/list kosong.
+jika tidak ada event maka responsenya array/list kosong.
 ```json
 []
 ```
-Semoga bermanfaat.
+
+Semoga bermanfaat 🙏
