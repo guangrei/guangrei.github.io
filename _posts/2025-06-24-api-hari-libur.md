@@ -13,18 +13,28 @@ Untuk penggunaanya juga sangat mudah.
 
 ## Mendapatkan hari libur dengan spesifik date:
 
+endpoints:
+```
+https://grei.pythonanywhere.com/id_holiday/Y-m-d
+```
+
 <script>
   var currentYear = new Date().getFullYear();
-  document.write('<a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-12-25">https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-12-25</a>');
+  document.write('Contoh: <a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-12-25">' + currentYear + '-12-25</a>.');
 </script>
 <noscript>JavaScript required to see this content! </noscript>
 
 ## List hari libur diantara 2 date:
 
 
+endpoints:
+```
+https://grei.pythonanywhere.com/id_holiday/Y-m-d/Y-m-d
+```
+
 <script>
   var currentYear = new Date().getFullYear();
-  document.write('<a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-02-01/' + currentYear + '-04-30">https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-02-01/' + currentYear + '-04-30</a>');
+  document.write('Contoh: <a href="https://grei.pythonanywhere.com/api/id_holiday/' + currentYear + '-02-01/' + currentYear + '-04-30">'+ currentYear + '-02-01/' + currentYear + '-04-30</a>.');
 </script>
 <noscript>JavaScript required to see this content! </noscript>
 
@@ -32,9 +42,7 @@ Untuk penggunaanya juga sangat mudah.
 
 response dari api berupa json.
 ```json
-{
-    "Y-m-d": "even name"
-}
+{"Y-m-d": "event name"}
 ```
 contoh multi event:
 ```json
