@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [UPDATE] API Hari libur yang paling akurat dan up to date
+title: "[UPDATE] API Hari Libur yang paling akurat dan up to date"
 date: 2025-06-24 13:50
 categories: api
 tags: id
